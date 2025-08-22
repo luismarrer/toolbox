@@ -23,16 +23,23 @@ Un reset moderno que incluye:
 - `text-wrap: balance` y `text-wrap: pretty` para mejor legibilidad
 - Configuración base para `header`, `main`, `footer`, `section` y `article` con `container-type: inline-size`
 
-Uso:
+#### ⚡ Cómo usar
 
-Lo puedes descargar directamente desde el archivo [`reset.css`](reset.css) o copiar el contenido y pegarlo en tu archivo CSS.
-Recuerda importarlo en tu HTML:
+1. Lo puedes descargar directamente desde el archivo [`reset.css`](reset.css) o copiar el contenido y pegarlo en tu archivo CSS. Recuerda importarlo en tu HTML:
 
-```html
-<link rel="stylesheet" href="reset.css">
-```
+    ```html
+    <link rel="stylesheet" href="reset.css">
+    ```
 
-## 🚀 Propósito
+2. Puedes importarlo a tu proyecto de manera rápida para probarlo con CDN (jsDelivr) así:
+
+    ```html
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/luismarrer/toolbox@5708a68/reset.css">
+    ```
+
+También disponible como [🔗 Gist](https://gist.github.com/luismarrer/5b4aee9a101383ff15e74469ad8ca7cb)
+
+## 🚀 Propósito del repo
 
 Este repo funciona como una colección viva de herramientas prácticas para:
 
