@@ -49,4 +49,4 @@ Este repo funciona como una colección viva de herramientas prácticas para:
 
 ## 📝 Licencia
 
-MIT
+[MIT](LICENSE)
